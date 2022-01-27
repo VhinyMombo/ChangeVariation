@@ -2,7 +2,7 @@
 title: "Algorithmics"
 author: "Ennatiqi-Mombo-Soukri"
 date: "1/23/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
